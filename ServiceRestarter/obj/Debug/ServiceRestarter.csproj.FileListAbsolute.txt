@@ -1,0 +1,14 @@
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\bin\Debug\ServiceRestarter.exe.config
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\bin\Debug\ServiceRestarter.exe
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\bin\Debug\ServiceRestarter.pdb
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\bin\Debug\System.Diagnostics.EventLog.dll
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\bin\Debug\System.Security.Principal.Windows.dll
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\bin\Debug\System.Diagnostics.EventLog.xml
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\bin\Debug\System.Security.Principal.Windows.xml
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\obj\Debug\ServiceRestarter.csproj.AssemblyReference.cache
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\obj\Debug\ServiceRestarter.csproj.CoreCompileInputs.cache
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\obj\Debug\ServiceR.862ACE44.Up2Date
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\obj\Debug\ServiceRestarter.exe
+C:\tfs\ReiniciaServicoWindows\ServiceRestarter\obj\Debug\ServiceRestarter.pdb

@@ -1,0 +1,7 @@
+C:\tfs\ReiniciaServicoWindows\RegistrarInicializacao\bin\Debug\RegistrarInicializacao.exe.config
+C:\tfs\ReiniciaServicoWindows\RegistrarInicializacao\bin\Debug\RegistrarInicializacao.exe
+C:\tfs\ReiniciaServicoWindows\RegistrarInicializacao\bin\Debug\RegistrarInicializacao.pdb
+C:\tfs\ReiniciaServicoWindows\RegistrarInicializacao\obj\Debug\RegistrarInicializacao.csproj.AssemblyReference.cache
+C:\tfs\ReiniciaServicoWindows\RegistrarInicializacao\obj\Debug\RegistrarInicializacao.csproj.CoreCompileInputs.cache
+C:\tfs\ReiniciaServicoWindows\RegistrarInicializacao\obj\Debug\RegistrarInicializacao.exe
+C:\tfs\ReiniciaServicoWindows\RegistrarInicializacao\obj\Debug\RegistrarInicializacao.pdb
